@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>37057144-556D-4A60-8E7D-67172B9EDBE9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>37057144-556D-4A60-8E7D-67172B9EDBE9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220227.65845299</real>
+			<key>timeStoppedRecording</key>
+			<real>563220583.13842297</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>37057144-556D-4A60-8E7D-67172B9EDBE9</string>
+		</dict>
+		<key>50E59A40-56CB-46A9-8936-91410DE5558E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>50E59A40-56CB-46A9-8936-91410DE5558E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220584.72489703</real>
+			<key>timeStoppedRecording</key>
+			<real>563220821.45972395</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>50E59A40-56CB-46A9-8936-91410DE5558E</string>
+		</dict>
+		<key>533B15BE-720E-467C-BBE1-4758123DD3C8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>533B15BE-720E-467C-BBE1-4758123DD3C8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220973.52667999</real>
+			<key>timeStoppedRecording</key>
+			<real>563221677.91543198</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>533B15BE-720E-467C-BBE1-4758123DD3C8</string>
+		</dict>
+		<key>58CCB29A-F78E-4222-9844-307EC288B981</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>58CCB29A-F78E-4222-9844-307EC288B981.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563218900.12266898</real>
+			<key>timeStoppedRecording</key>
+			<real>563220024.32735097</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>58CCB29A-F78E-4222-9844-307EC288B981</string>
+		</dict>
+		<key>5FA47300-0040-475B-9BDC-016FDA7D5DF6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5FA47300-0040-475B-9BDC-016FDA7D5DF6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220112.75447094</real>
+			<key>timeStoppedRecording</key>
+			<real>563220199.96012402</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5FA47300-0040-475B-9BDC-016FDA7D5DF6</string>
+		</dict>
+		<key>839D987D-ED3A-4B4F-A61B-1197E2388AAA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>839D987D-ED3A-4B4F-A61B-1197E2388AAA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220200.64017296</real>
+			<key>timeStoppedRecording</key>
+			<real>563220227.014274</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>839D987D-ED3A-4B4F-A61B-1197E2388AAA</string>
+		</dict>
+		<key>83E8EF29-3DFE-498A-AD67-0D2C08FCF6B5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>83E8EF29-3DFE-498A-AD67-0D2C08FCF6B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563189959.82269704</real>
+			<key>timeStoppedRecording</key>
+			<real>563191274.90141797</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>83E8EF29-3DFE-498A-AD67-0D2C08FCF6B5</string>
+		</dict>
+		<key>EA79FD5C-8879-49A2-89E8-D4C87A5F8126</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA79FD5C-8879-49A2-89E8-D4C87A5F8126.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220823.80223703</real>
+			<key>timeStoppedRecording</key>
+			<real>563220969.926754</real>
+			<key>title</key>
+			<string>Debug FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EA79FD5C-8879-49A2-89E8-D4C87A5F8126</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

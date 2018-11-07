@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "25c59f6f9899b1acb28525bbe496a2b9"
+build_time: [1541528877, 726555000]
+inputs:
+  "/Users/emese/Documents/apple/FoodApp/FoodApp/RestaurantTableViewCell.swift": [1541528021, 0]
+  "/Users/emese/Documents/apple/FoodApp/FoodApp/ViewController.swift": [1541495992, 0]
+  "/Users/emese/Documents/apple/FoodApp/FoodApp/AppDelegate.swift": [1541495992, 0]
+  "/Users/emese/Documents/apple/FoodApp/FoodApp/RestaurantTableViewController.swift": [1541528877, 0]

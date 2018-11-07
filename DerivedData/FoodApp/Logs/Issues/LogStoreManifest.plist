@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0AF86F38-5444-44A1-87A0-029AFE2039E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>0AF86F38-5444-44A1-87A0-029AFE2039E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>FoodApp-fmdmhatnwtaoqtcevwxczfkrdiux</string>
+			<key>timeStartedRecording</key>
+			<real>563221677.71676898</real>
+			<key>timeStoppedRecording</key>
+			<real>563221680.07753396</real>
+			<key>title</key>
+			<string>Build target FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0AF86F38-5444-44A1-87A0-029AFE2039E9</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

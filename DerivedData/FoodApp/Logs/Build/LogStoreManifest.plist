@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F619CD9-905F-4E92-BC87-BBD9311C203F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F619CD9-905F-4E92-BC87-BBD9311C203F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563189957.61900198</real>
+			<key>timeStoppedRecording</key>
+			<real>563189959.86146295</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0F619CD9-905F-4E92-BC87-BBD9311C203F</string>
+		</dict>
+		<key>14867BAC-6937-45FC-A6A2-DADC915AC39C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14867BAC-6937-45FC-A6A2-DADC915AC39C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220108.35581899</real>
+			<key>timeStoppedRecording</key>
+			<real>563220112.79760504</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>14867BAC-6937-45FC-A6A2-DADC915AC39C</string>
+		</dict>
+		<key>2036CD6D-C8C8-4E00-9C72-E05DD42F4C64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2036CD6D-C8C8-4E00-9C72-E05DD42F4C64.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220969.68756199</real>
+			<key>timeStoppedRecording</key>
+			<real>563220973.59733605</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2036CD6D-C8C8-4E00-9C72-E05DD42F4C64</string>
+		</dict>
+		<key>2280C504-B00A-4363-A3AF-C411FE729296</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2280C504-B00A-4363-A3AF-C411FE729296.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563218894.895841</real>
+			<key>timeStoppedRecording</key>
+			<real>563218900.16578901</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2280C504-B00A-4363-A3AF-C411FE729296</string>
+		</dict>
+		<key>35C9C3CD-8D5A-47CC-97ED-150A176DFACF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35C9C3CD-8D5A-47CC-97ED-150A176DFACF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220821.22096503</real>
+			<key>timeStoppedRecording</key>
+			<real>563220823.84734905</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>35C9C3CD-8D5A-47CC-97ED-150A176DFACF</string>
+		</dict>
+		<key>60EE7DFC-329C-4E71-B10E-02057B4DA84F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60EE7DFC-329C-4E71-B10E-02057B4DA84F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220199.72576904</real>
+			<key>timeStoppedRecording</key>
+			<real>563220200.68937194</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>60EE7DFC-329C-4E71-B10E-02057B4DA84F</string>
+		</dict>
+		<key>77FFB133-2DFF-413C-9AD6-F3716751459E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77FFB133-2DFF-413C-9AD6-F3716751459E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220024.09176397</real>
+			<key>timeStoppedRecording</key>
+			<real>563220024.87777996</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>77FFB133-2DFF-413C-9AD6-F3716751459E</string>
+		</dict>
+		<key>7FFE78C9-39DF-4B53-BD0B-A9876584F186</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FFE78C9-39DF-4B53-BD0B-A9876584F186.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220582.90741503</real>
+			<key>timeStoppedRecording</key>
+			<real>563220584.76966596</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7FFE78C9-39DF-4B53-BD0B-A9876584F186</string>
+		</dict>
+		<key>D69B3C2C-B13E-4279-8B74-2E1E01F0A759</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D69B3C2C-B13E-4279-8B74-2E1E01F0A759.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563220226.77967405</real>
+			<key>timeStoppedRecording</key>
+			<real>563220227.707358</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D69B3C2C-B13E-4279-8B74-2E1E01F0A759</string>
+		</dict>
+		<key>E3A36871-83D4-43FC-8E83-9F71C50926C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3A36871-83D4-43FC-8E83-9F71C50926C6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FoodApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FoodApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FoodApp</string>
+			<key>timeStartedRecording</key>
+			<real>563221677.6767</real>
+			<key>timeStoppedRecording</key>
+			<real>563221680.12945604</real>
+			<key>title</key>
+			<string>Build FoodApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E3A36871-83D4-43FC-8E83-9F71C50926C6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
